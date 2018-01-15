@@ -1,0 +1,13 @@
+/emailtask.o
+/emailtask.d
+/emailtaskfactory.d
+/emailtaskfactory.o
+/factorypattern
+/factorypattern.d
+/factorypattern.o
+/makefile
+/objects.mk
+/smstask.d
+/smstask.o
+/sources.mk
+/subdir.mk
